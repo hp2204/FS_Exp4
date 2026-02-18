@@ -88,8 +88,10 @@ redux-counter-app/
 └── package.json
 
 ## Screenshots Part1
+## Dark
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9cde06e-dbc7-433a-af0a-5789d709bfd7" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe4b1fd7-fd19-4abc-9dbe-62a18d3e0a09" />
+## Light
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30ed42d9-1950-4b53-b031-99b92e0911a1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29033dd7-c4b3-4397-913c-bd8d68690c17" />
 
